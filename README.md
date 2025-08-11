@@ -1,3 +1,47 @@
+# ⏳ Time Tracker App
+
+A simple and interactive **Time Tracker** built with **Vite**, **React**, **TypeScript**, and **Tailwind CSS**.  
+Easily log your activities, track hours, and visualize your time distribution through a beautiful pie chart.
+
+---
+
+## 🚀 Live Demo
+🔗 [Click here to try it out](https://veltimetracker.netlify.app/)
+
+---
+
+## 📌 LinkedIn Post
+🔗 [Check my LinkedIn post here](https://www.linkedin.com/posts/velmaran-e-38139b2b0_day3of30-webdevelopment-javascript-activity-7360619695386861568-Fi4h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErOyVEB2jhy99mca8iuuQxWHug_y8OPbmk)
+
+---
+
+## 📸 Features
+- ✅ **Log Activities** with custom names and hours
+- 🎨 **Color-coded Pie Chart** to visualize time distribution
+- 📱 **Responsive Design** for all devices
+- ⚡ Built with **Vite** for fast performance
+- 💻 **React + TypeScript** for scalable and type-safe code
+- 🎯 **Tailwind CSS** for modern, utility-first styling
+
+---
+
+## 🛠️ Tech Stack
+- **React** – Frontend framework
+- **TypeScript** – Type safety and clean code
+- **Vite** – Fast build tool
+- **Tailwind CSS** – Modern styling
+- **Chart.js** – Data visualization
+
+---
+
+## 📂 Installation & Setup
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+   cd YOUR_REPO_NAME
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
